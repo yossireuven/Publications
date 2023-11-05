@@ -1,5 +1,5 @@
 # Publications
-### Here are some of my blogs, CVEs, and thoughts...
+### Here are some of my blogs, CVEs, and other publications...
 
 CVEs:
 * [CVE-2021-30186: CWE-122: Heap-based Buffer Overflow](https://blog.scadafence.com/scadafence-researchers-discover-a-vulnerability-in-the-codesys-development-system).
